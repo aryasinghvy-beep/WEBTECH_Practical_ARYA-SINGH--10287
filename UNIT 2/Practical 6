@@ -1,0 +1,19 @@
+<!-- Practical 6
+     Name: Arya Singh - 10287
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Types</title>
+    <style>
+        h1 { color: blue; }
+    </style>
+</head>
+<body>
+
+<h1>Internal CSS</h1>
+<p style="color:red;">Inline CSS</p>
+
+</body>
+</html>
